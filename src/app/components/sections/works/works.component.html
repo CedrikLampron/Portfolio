@@ -1,0 +1,152 @@
+<div class="container">
+  <!-- section title -->
+  <h2 class="section-title wow fadeInUp">Mes projets</h2>
+
+  <div class="spacer-60"></div>
+
+  <!-- portfolio filter (desktop) -->
+  <!-- <ul class="portfolio-filter list-inline wow fadeInUp">
+    <li class="list-inline-item" [ngClass]="{ current: workFilter === 'all' }" (click)="workFilter = 'all'">Everything</li>
+    <li class="list-inline-item" [ngClass]="{ current: workFilter === 'creative' }" (click)="workFilter = 'creative'">Creative</li>
+    <li class="list-inline-item" [ngClass]="{ current: workFilter === 'art' }" (click)="workFilter = 'art'">Art</li>
+    <li class="list-inline-item" [ngClass]="{ current: workFilter === 'design' }" (click)="workFilter = 'design'">Design</li>
+    <li class="list-inline-item" [ngClass]="{ current: workFilter === 'branding' }" (click)="workFilter = 'branding'">Branding</li>
+  </ul> -->
+
+  <!-- portfolio filter (mobile) -->
+  <div class="pf-filter-wrapper">
+    <select class="portfolio-filter-mobile" (change)="onChange($event)">
+      <option value="all">Everything</option>
+      <option value="creative">Creative</option>
+      <option value="art">Art</option>
+      <option value="design">Design</option>
+      <option value="branding">Branding</option>
+    </select>
+  </div>
+
+  <!-- portolio wrapper -->
+  <div class="row portfolio-wrapper">
+    <!-- portfolio item -->
+    <div
+    class="col-md-4 col-sm-6 grid-item creative design"
+    *ngIf="workFilter === 'all' || workFilter === 'creative' || workFilter === 'design'"
+  >
+    <a href="javascript:" class="work-content" data-toggle="modal" (click)="gj2023Modal.show()">
+      <div class="portfolio-item rounded shadow-dark">
+        <div class="details">
+          <span class="term">Creative</span>
+          <h4 class="title">Game Jam Sherbrooke 2023</h4>
+          <span class="more-button"><i class="icon-options"></i></span>
+        </div>
+        <div class="thumb">
+          <img src="assets/images/beast-of-hamshire.png" alt="The Beast of Hamshire" />
+          <div class="mask"></div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <app-ui-modal #gj2023Modal dialogClass="modal-dialog-centered work-modal" [hideHeader]="true" [hideFooter]="true">
+    <div class="app-modal-body">
+      <div id="small-dialog" class="white-popup zoom-anim-dialog mfp-hide">
+        <img src="assets/images/beast-of-hamshire.png" alt="The Beast of Hamshire" />
+        <h2>Game Jam Sherbrooke 2023</h2>
+        <p>
+         En mars 2023, j'ai eu la chance de participer au Game Jam de Sherbrooke. Avec 5 de mes collègues, nous avons développé un jeu complet en moins de 48 heures. Avec la thématique «Nuit Blanche», nous avons produit  <a href="https://lesvilsmonsieur.github.io/TheBeastOfHamshire/"> The Beast of Hamshire </a> dont je suis très fier.
+        </p>
+        <p>J'ai occupé le rôle de développeur et de Scrum Master durant la totalité du Game Jam.</p>
+      </div>
+    </div>
+  </app-ui-modal>
+
+
+
+
+    <!-- portfolio item -->
+    <div
+      class="col-md-4 col-sm-6 grid-item creative design"
+      *ngIf="workFilter === 'all' || workFilter === 'creative' || workFilter === 'design'"
+    >
+      <a href="javascript:" class="work-content" data-toggle="modal" (click)="gj2020Modal.show()">
+        <div class="portfolio-item rounded shadow-dark">
+          <div class="details">
+            <span class="term">Creative</span>
+            <h4 class="title">Global Game Jam 2020 </h4>
+            <span class="more-button"><i class="icon-options"></i></span>
+          </div>
+          <div class="thumb">
+            <img src="assets/images/utopistes.png" alt="Les Utopistes" />
+            <div class="mask"></div>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <app-ui-modal #gj2020Modal dialogClass="modal-dialog-centered work-modal" [hideHeader]="true" [hideFooter]="true">
+      <div class="app-modal-body">
+        <div id="small-dialog" class="white-popup zoom-anim-dialog mfp-hide">
+          <img src="assets/images/utopistes.png" alt="Les Utopistes" />
+          <h2>Global Game 2020</h2>
+          <p>
+           J'ai eu une fin d'année 2019 très difficile. Avant de me lancer dans une réorientation de carrière, je voulais tester les eaux du développement de projet. Avec un ami, nous avons développé un jeu de table en moins de 48 heures dans le cadre du Global Game Jam 2020.  Le thèmatique « Rebuild » nous a conduit vers le simulateur de colonie du 19e siècle que nous appelons   <a href="https://globalgamejam.org/2020/games/les-utopistes-4"> Les Utopistes </a>.
+          </p>
+          <p>J'ai co-développé le jeu, les textes, les tests d'assurance qualité.</p>
+        </div>
+      </div>
+    </app-ui-modal>
+
+
+
+
+     <!-- portfolio item -->
+     <div
+     class="col-md-4 col-sm-6 grid-item creative design"
+     *ngIf="workFilter === 'all' || workFilter === 'creative' || workFilter === 'design'"
+   >
+     <a href="javascript:" class="work-content" data-toggle="modal" (click)="pierroModal.show()">
+       <div class="portfolio-item rounded shadow-dark">
+         <div class="details">
+           <span class="term">Creative</span>
+           <h4 class="title">Projet Pierro (En cours) </h4>
+           <span class="more-button"><i class="icon-options"></i></span>
+         </div>
+         <div class="thumb">
+           <img src="assets/images/pierro.png" alt="Projet Pierro" />
+           <div class="mask"></div>
+         </div>
+       </div>
+     </a>
+   </div>
+
+   <app-ui-modal #pierroModal dialogClass="modal-dialog-centered work-modal" [hideHeader]="true" [hideFooter]="true">
+     <div class="app-modal-body">
+       <div id="small-dialog" class="white-popup zoom-anim-dialog mfp-hide">
+         <img src="assets/images/pierro.png" alt="Projet Pierro" />
+         <h2>Projet Pierro</h2>
+         <p> Avec un ami, je développe un jeu d'aventure Ren'Py.  Bien que la vie continue d'aller à toute allure, j'ai bonne espoir de me remettre sur ce projet!
+          
+         </p>
+         <p>Je fais tout ce qui est technique, script, mise en ligne, mise en forme des images et des pistes audio.</p>
+       </div>
+     </div>
+   </app-ui-modal>
+
+
+
+
+
+
+   
+    
+  </div>
+
+  <!-- more button -->
+  <!-- <div class="load-more text-center mt-4">
+    <a href="javascript:" class="btn btn-default"><i class="fas fa-spinner"></i> Load more</a>
+    <!- - numbered pagination (hidden for infinite scroll) - ->
+    <ul class="portfolio-pagination list-inline d-none">
+      <li class="list-inline-item">1</li>
+      <li class="list-inline-item"><a href="javascript:">2</a></li>
+    </ul>
+  </div> -->
+</div>
