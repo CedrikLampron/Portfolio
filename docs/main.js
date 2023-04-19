@@ -793,7 +793,7 @@ ExperienceComponent.ɵfac = function ExperienceComponent_Factory(t) {
 ExperienceComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineComponent"]({
   type: ExperienceComponent,
   selectors: [["app-experience"]],
-  decls: 74,
+  decls: 63,
   vars: 0,
   consts: [[1, "container"], [1, "section-title", "wow", "fadeInUp"], [1, "spacer-60"], [1, "row"], [1, "col-md-6"], [1, "timeline", "edu", "rounded", "bg-white", "shadow-dark", "padding-30", "overflow-hidden"], [1, "timeline-container", "wow", "fadeInUp"], [1, "content"], [1, "time"], [1, "title"], ["href", "https://lesvilsmonsieur.github.io/TheBeastOfHamshire/"], ["data-wow-delay", "0.2s", 1, "timeline-container", "wow", "fadeInUp"], ["data-wow-delay", "0.4s", 1, "timeline-container", "wow", "fadeInUp"], [1, "line"], [1, "spacer-30", "d-md-none", "d-lg-none"], [1, "timeline", "exp", "bg-white", "shadow-dark", "rounded", "padding-30", "overflow-hidden"]],
   template: function ExperienceComponent_Template(rf, ctx) {
@@ -816,68 +816,55 @@ ExperienceComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](17, ".");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](18, "div", 11)(19, "div", 7)(20, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](21, "2023");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](21, "2018");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](22, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](23, "Certification en CyberS\xE9curit\xE9 (ISC)\xB2");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](23, "Ma\xEEtrise en Histoire");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](24, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](25, "Suivre la ");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](26, "em");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](27, "Online Self-Paced Training Certification ");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](28, "de (ISC)\xB2.");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](25, "Occuper des postes d'enseignements au coll\xE9gial, \xE0 l'universit\xE9 et au para-universitaire.");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](29, "div", 11)(30, "div", 7)(31, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](32, "2018");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](26, "div", 12)(27, "div", 7)(28, "span", 8);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](29, "2014");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](33, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](34, "Ma\xEEtrise en Histoire");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](30, "h3", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](31, "Baccalaur\xE9at en Histoire");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](35, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](36, "Occuper des postes d'enseignements au coll\xE9gial, \xE0 l'universit\xE9 et au para-universitaire.");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](32, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](33, "Occuper des postes de vulgarisation historiques dans divers organismes tout le long de mes \xE9tudes.");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](37, "div", 12)(38, "div", 7)(39, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](40, "2014");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](41, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](42, "Baccalaur\xE9at en Histoire");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](43, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](44, "Occuper des postes de vulgarisation historiques dans divers organismes tout le long de mes \xE9tudes.");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](45, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](34, "span", 13);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](46, "div", 4);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](47, "div", 14);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](48, "div", 15)(49, "div", 6)(50, "div", 7)(51, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](52, "2023 (stage hiver)");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](35, "div", 4);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](36, "div", 14);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](37, "div", 15)(38, "div", 6)(39, "div", 7)(40, "span", 8);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](41, "2023 (stage hiver)");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](53, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](54, "Analyste d'affaire \xE0 la Ville de Sherbrooke");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](42, "h3", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](43, "Analyste d'affaire \xE0 la Ville de Sherbrooke");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](55, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](56, "Refonte des m\xE9thodes de travail et optimisation de l\u2019utilisation de l\u2019outil Azure DevOps et red\xE9finir les politiques d\u2019accessibilit\xE9 web pour le projet Contact-Citoyen. ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](44, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](45, "Refonte des m\xE9thodes de travail et optimisation de l\u2019utilisation de l\u2019outil Azure DevOps et red\xE9finir les politiques d\u2019accessibilit\xE9 web pour le projet Contact-Citoyen. ");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](57, "div", 11)(58, "div", 7)(59, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](60, "2022 (stage \xE9t\xE9)");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](46, "div", 11)(47, "div", 7)(48, "span", 8);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](49, "2022 (stage \xE9t\xE9)");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](61, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](62, "Analyste-Programmeur \xE0 la Ville de Sherbrooke");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](50, "h3", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](51, "Analyste-Programmeur \xE0 la Ville de Sherbrooke");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](63, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](64, "D\xE9velopper une application web visant \xE0 r\xE9unir les services municipaux et \xE0 faciliter l\u2019acc\xE8s aux citoyens \xE0 ces services. ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](52, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](53, "D\xE9velopper une application web visant \xE0 r\xE9unir les services municipaux et \xE0 faciliter l\u2019acc\xE8s aux citoyens \xE0 ces services. ");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](65, "div", 12)(66, "div", 7)(67, "span", 8);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](68, "2017-2019");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](54, "div", 12)(55, "div", 7)(56, "span", 8);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](57, "2017-2019");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](69, "h3", 9);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](70, "Charg\xE9 de cours en Histoire");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](58, "h3", 9);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](59, "Charg\xE9 de cours en Histoire");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](71, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](72, "Vulgariser et expliquer des \xE9v\xE8nements d\u2019actualit\xE9s \xE0 l\u2019aide de notions historiques et utiliser la conception universelle de l\u2019apprentissage (CUA) pour s\u2019assurer de l\u2019apprentissage de chacun. ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](60, "p");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](61, "Vulgariser et expliquer des \xE9v\xE8nements d\u2019actualit\xE9s \xE0 l\u2019aide de notions historiques et utiliser la conception universelle de l\u2019apprentissage (CUA) pour s\u2019assurer de l\u2019apprentissage de chacun. ");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](73, "span", 13);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](62, "span", 13);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()()();
     }
   },
@@ -1063,6 +1050,11 @@ function HomeComponent_span_10_Template(rf, ctx) {
     _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("@bounce", undefined);
   }
 }
+var _c0 = function _c0(a0) {
+  return {
+    light: a0
+  };
+};
 var HomeComponent = /*#__PURE__*/function () {
   function HomeComponent() {
     var _this = this;
@@ -1110,9 +1102,9 @@ HomeComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_2__["�
   inputs: {
     themeType: "themeType"
   },
-  decls: 51,
-  vars: 3,
-  consts: [[1, "container"], [1, "intro"], ["src", "assets/images/ced-round1.png", "alt", "Cedrik Lampron", 1, "mb-4"], [1, "mb-2", "mt-0"], [1, "text-rotating", "morphext"], [4, "ngIf"], [1, "social-icons", "light", "list-inline", "mb-0", "mt-4"], [1, "list-inline-item"], ["href", "https://lesvilsmonsieur.github.io/TheBeastOfHamshire/", "target", "_blank", "rel", "noopener noreferrer"], [1, "fas", "fa-gamepad", 2, "font-size", "36px"], ["href", "https://www.linkedin.com/in/c%C3%A9drik-lampron-541002187      \n        ", "target", "_blank", "rel", "noopener noreferrer"], [1, "fab", "fa-linkedin-in", 2, "font-size", "36px"], ["href", "mailto:cedrik.lampron@usherbrooke.ca"], [1, "fa", "fa-envelope", 2, "font-size", "36px"], [1, "mt-4"], ["href", "javascript:", 1, "btn", "btn-default", 3, "click"], ["id", "scene", "data-relative-input", "true", 1, "parallax"], ["width", "27", "height", "29", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p1"], ["d", "M21.15625.60099c4.37954 3.67487 6.46544 9.40612 5.47254 15.03526-.9929 5.62915-4.91339 10.30141-10.2846 12.25672-5.37122 1.9553-11.3776.89631-15.75715-2.77856l2.05692-2.45134c3.50315 2.93948 8.3087 3.78663 12.60572 2.22284 4.297-1.5638 7.43381-5.30209 8.22768-9.80537.79387-4.50328-.8749-9.08872-4.37803-12.02821L21.15625.60099z", "fill", "#FFD15C", "fill-rule", "evenodd"], ["width", "26", "height", "26", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p2"], ["d", "M13 3.3541L2.42705 24.5h21.1459L13 3.3541z", "stroke", "#FF4C60", "stroke-width", "3", "fill", "none", "fill-rule", "evenodd"], ["width", "30", "height", "25", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p3"], ["d", "M.1436 8.9282C3.00213 3.97706 8.2841.92763 14.00013.92796c5.71605.00032 10.9981 3.04992 13.85641 8 2.8583 4.95007 2.8584 11.0491-.00014 16.00024l-2.77128-1.6c2.28651-3.96036 2.28631-8.84002.00011-12.8002-2.2862-3.96017-6.5124-6.40017-11.08513-6.4-4.57271.00018-8.79872 2.43984-11.08524 6.4002l-2.77128-1.6z", "fill", "#44D7B6", "fill-rule", "evenodd"], ["width", "15", "height", "23", "data-depth", "0.6", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p4"], ["transform", "rotate(30 9.86603 10.13397)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#FFD15C", "fill-rule", "evenodd"], ["width", "15", "height", "23", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p5"], ["transform", "rotate(30 9.86603 10.13397)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "49", "height", "17", "data-depth", "0.5", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p6"], ["fill", "#FF4C60", "fill-rule", "evenodd"], ["d", "M.5 16.5c0-5.71709 2.3825-10.99895 6.25-13.8567 3.8675-2.85774 8.6325-2.85774 12.5 0C23.1175 5.50106 25.5 10.78292 25.5 16.5H23c0-4.57303-1.90625-8.79884-5-11.08535-3.09375-2.28652-6.90625-2.28652-10 0C4.90625 7.70116 3 11.92697 3 16.5H.5z"], ["d", "M23.5 16.5c0-5.71709 2.3825-10.99895 6.25-13.8567 3.8675-2.85774 8.6325-2.85774 12.5 0C46.1175 5.50106 48.5 10.78292 48.5 16.5H46c0-4.57303-1.90625-8.79884-5-11.08535-3.09375-2.28652-6.90625-2.28652-10 0-3.09375 2.28651-5 6.51232-5 11.08535h-2.5z"], ["width", "26", "height", "26", "data-depth", "0.4", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p7"], ["d", "M13 22.6459L2.42705 1.5h21.1459L13 22.6459z", "stroke", "#FFD15C", "stroke-width", "3", "fill", "none", "fill-rule", "evenodd"], ["width", "19", "height", "21", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p8"], ["transform", "rotate(-40 6.25252 10.12626)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "30", "height", "25", "data-depth", "0.3", "data-depth-y", "-1.30", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p9"], ["d", "M29.8564 16.0718c-2.85854 4.95114-8.1405 8.00057-13.85654 8.00024-5.71605-.00032-10.9981-3.04992-13.85641-8-2.8583-4.95007-2.8584-11.0491.00014-16.00024l2.77128 1.6c-2.28651 3.96036-2.28631 8.84002-.00011 12.8002 2.2862 3.96017 6.5124 6.40017 11.08513 6.4 4.57271-.00018 8.79872-2.43984 11.08524-6.4002l2.77128 1.6z", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "47", "height", "29", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p10"], ["fill", "#44D7B6", "fill-rule", "evenodd"], ["d", "M46.78878 17.19094c-1.95535 5.3723-6.00068 9.52077-10.61234 10.8834-4.61167 1.36265-9.0893-.26708-11.74616-4.27524-2.65686-4.00817-3.08917-9.78636-1.13381-15.15866l2.34923.85505c-1.56407 4.29724-1.2181 8.92018.90705 12.12693 2.12514 3.20674 5.70772 4.5107 9.39692 3.4202 3.68921-1.0905 6.92581-4.40949 8.48988-8.70673l2.34923.85505z"], ["d", "M25.17585 9.32448c-1.95535 5.3723-6.00068 9.52077-10.61234 10.8834-4.61167 1.36264-9.0893-.26708-11.74616-4.27525C.16049 11.92447-.27182 6.14628 1.68354.77398l2.34923.85505c-1.56407 4.29724-1.2181 8.92018.90705 12.12692 2.12514 3.20675 5.70772 4.5107 9.39692 3.4202 3.68921-1.0905 6.92581-4.40948 8.48988-8.70672l2.34923.85505z"], ["width", "33", "height", "20", "data-depth", "0.5", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p11"], ["d", "M32.36774.34317c.99276 5.63023-1.09332 11.3614-5.47227 15.03536-4.37895 3.67396-10.3855 4.73307-15.75693 2.77837C5.76711 16.2022 1.84665 11.53014.8539 5.8999l3.15139-.55567c.7941 4.50356 3.93083 8.24147 8.22772 9.8056 4.29688 1.56413 9.10275.71673 12.60554-2.2227C28.34133 9.98771 30.01045 5.4024 29.21635.89884l3.15139-.55567z", "fill", "#FFD15C", "fill-rule", "evenodd"]],
+  decls: 57,
+  vars: 6,
+  consts: [[1, "container"], [1, "intro"], ["src", "assets/images/ced.jpg", "alt", "Cedrik Lampron", 1, "mb-4"], [1, "mb-2", "mt-0"], [1, "text-rotating", "morphext"], [4, "ngIf"], [1, "social-icons", "light", "list-inline", "mb-0", "mt-4"], [1, "list-inline-item"], ["href", "https://lesvilsmonsieur.github.io/TheBeastOfHamshire/"], [1, "fas", "fa-gamepad", 2, "font-size", "36px"], ["href", "https://www.linkedin.com/in/\n        c\xE9drik-lampron-541002187\n        "], [1, "fab", "fa-linkedin-in", 2, "font-size", "36px"], ["href", "mailto:cedrik.lampron@usherbrooke.ca"], [1, "fa", "fa-envelope", 2, "font-size", "36px"], [1, "mt-4"], ["href", "javascript:", 1, "btn", "btn-default", 3, "click"], [1, "scroll-down", 3, "ngClass"], ["href", "javascript:", 1, "mouse-wrapper", 3, "click"], [1, "mouse"], [1, "wheel"], ["id", "scene", "data-relative-input", "true", 1, "parallax"], ["width", "27", "height", "29", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p1"], ["d", "M21.15625.60099c4.37954 3.67487 6.46544 9.40612 5.47254 15.03526-.9929 5.62915-4.91339 10.30141-10.2846 12.25672-5.37122 1.9553-11.3776.89631-15.75715-2.77856l2.05692-2.45134c3.50315 2.93948 8.3087 3.78663 12.60572 2.22284 4.297-1.5638 7.43381-5.30209 8.22768-9.80537.79387-4.50328-.8749-9.08872-4.37803-12.02821L21.15625.60099z", "fill", "#FFD15C", "fill-rule", "evenodd"], ["width", "26", "height", "26", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p2"], ["d", "M13 3.3541L2.42705 24.5h21.1459L13 3.3541z", "stroke", "#FF4C60", "stroke-width", "3", "fill", "none", "fill-rule", "evenodd"], ["width", "30", "height", "25", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p3"], ["d", "M.1436 8.9282C3.00213 3.97706 8.2841.92763 14.00013.92796c5.71605.00032 10.9981 3.04992 13.85641 8 2.8583 4.95007 2.8584 11.0491-.00014 16.00024l-2.77128-1.6c2.28651-3.96036 2.28631-8.84002.00011-12.8002-2.2862-3.96017-6.5124-6.40017-11.08513-6.4-4.57271.00018-8.79872 2.43984-11.08524 6.4002l-2.77128-1.6z", "fill", "#44D7B6", "fill-rule", "evenodd"], ["width", "15", "height", "23", "data-depth", "0.6", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p4"], ["transform", "rotate(30 9.86603 10.13397)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#FFD15C", "fill-rule", "evenodd"], ["width", "15", "height", "23", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p5"], ["transform", "rotate(30 9.86603 10.13397)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "49", "height", "17", "data-depth", "0.5", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p6"], ["fill", "#FF4C60", "fill-rule", "evenodd"], ["d", "M.5 16.5c0-5.71709 2.3825-10.99895 6.25-13.8567 3.8675-2.85774 8.6325-2.85774 12.5 0C23.1175 5.50106 25.5 10.78292 25.5 16.5H23c0-4.57303-1.90625-8.79884-5-11.08535-3.09375-2.28652-6.90625-2.28652-10 0C4.90625 7.70116 3 11.92697 3 16.5H.5z"], ["d", "M23.5 16.5c0-5.71709 2.3825-10.99895 6.25-13.8567 3.8675-2.85774 8.6325-2.85774 12.5 0C46.1175 5.50106 48.5 10.78292 48.5 16.5H46c0-4.57303-1.90625-8.79884-5-11.08535-3.09375-2.28652-6.90625-2.28652-10 0-3.09375 2.28651-5 6.51232-5 11.08535h-2.5z"], ["width", "26", "height", "26", "data-depth", "0.4", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p7"], ["d", "M13 22.6459L2.42705 1.5h21.1459L13 22.6459z", "stroke", "#FFD15C", "stroke-width", "3", "fill", "none", "fill-rule", "evenodd"], ["width", "19", "height", "21", "data-depth", "0.3", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p8"], ["transform", "rotate(-40 6.25252 10.12626)", "x", "7", "width", "3", "height", "25", "rx", "1.5", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "30", "height", "25", "data-depth", "0.3", "data-depth-y", "-1.30", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p9"], ["d", "M29.8564 16.0718c-2.85854 4.95114-8.1405 8.00057-13.85654 8.00024-5.71605-.00032-10.9981-3.04992-13.85641-8-2.8583-4.95007-2.8584-11.0491.00014-16.00024l2.77128 1.6c-2.28651 3.96036-2.28631 8.84002-.00011 12.8002 2.2862 3.96017 6.5124 6.40017 11.08513 6.4 4.57271-.00018 8.79872-2.43984 11.08524-6.4002l2.77128 1.6z", "fill", "#6C6CE5", "fill-rule", "evenodd"], ["width", "47", "height", "29", "data-depth", "0.2", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p10"], ["fill", "#44D7B6", "fill-rule", "evenodd"], ["d", "M46.78878 17.19094c-1.95535 5.3723-6.00068 9.52077-10.61234 10.8834-4.61167 1.36265-9.0893-.26708-11.74616-4.27524-2.65686-4.00817-3.08917-9.78636-1.13381-15.15866l2.34923.85505c-1.56407 4.29724-1.2181 8.92018.90705 12.12693 2.12514 3.20674 5.70772 4.5107 9.39692 3.4202 3.68921-1.0905 6.92581-4.40949 8.48988-8.70673l2.34923.85505z"], ["d", "M25.17585 9.32448c-1.95535 5.3723-6.00068 9.52077-10.61234 10.8834-4.61167 1.36264-9.0893-.26708-11.74616-4.27525C.16049 11.92447-.27182 6.14628 1.68354.77398l2.34923.85505c-1.56407 4.29724-1.2181 8.92018.90705 12.12692 2.12514 3.20675 5.70772 4.5107 9.39692 3.4202 3.68921-1.0905 6.92581-4.40948 8.48988-8.70672l2.34923.85505z"], ["width", "33", "height", "20", "data-depth", "0.5", "xmlns", "http://www.w3.org/2000/svg", 1, "layer", "p11"], ["d", "M32.36774.34317c.99276 5.63023-1.09332 11.3614-5.47227 15.03536-4.37895 3.67396-10.3855 4.73307-15.75693 2.77837C5.76711 16.2022 1.84665 11.53014.8539 5.8999l3.15139-.55567c.7941 4.50356 3.93083 8.24147 8.22772 9.8056 4.29688 1.56413 9.10275.71673 12.60554-2.2227C28.34133 9.98771 30.01045 5.4024 29.21635.89884l3.15139-.55567z", "fill", "#FFD15C", "fill-rule", "evenodd"]],
   template: function HomeComponent_Template(rf, ctx) {
     if (rf & 1) {
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](0, "div", 0)(1, "div", 1);
@@ -1142,40 +1134,50 @@ HomeComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_2__["�
       });
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](23, "Engagez Moi");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](24, "div", 16);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](24, "div", 16)(25, "a", 17);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵlistener"]("click", function HomeComponent_Template_a_click_25_listener() {
+        return ctx.scrollTo("about");
+      });
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](26, "span");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](27, "D\xE9filer pour d\xE9couvrir");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](28, "span", 18);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](29, "span", 19);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](30, "div", 20);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵnamespaceSVG"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](25, "svg", 17);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](26, "path", 18);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](31, "svg", 21);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](32, "path", 22);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](27, "svg", 19);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](28, "path", 20);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](33, "svg", 23);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](34, "path", 24);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](29, "svg", 21);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](30, "path", 22);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](35, "svg", 25);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](36, "path", 26);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](31, "svg", 23);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](32, "rect", 24);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](37, "svg", 27);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](38, "rect", 28);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](33, "svg", 25);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](34, "rect", 26);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](39, "svg", 29);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](40, "rect", 30);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](35, "svg", 27)(36, "g", 28);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](37, "path", 29)(38, "path", 30);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](41, "svg", 31)(42, "g", 32);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](43, "path", 33)(44, "path", 34);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](39, "svg", 31);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](40, "path", 32);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](45, "svg", 35);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](46, "path", 36);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](41, "svg", 33);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](42, "rect", 34);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](47, "svg", 37);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](48, "rect", 38);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](43, "svg", 35);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](44, "path", 36);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](49, "svg", 39);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](50, "path", 40);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](45, "svg", 37)(46, "g", 38);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](47, "path", 39)(48, "path", 40);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](51, "svg", 41)(52, "g", 42);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](53, "path", 43)(54, "path", 44);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()();
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](49, "svg", 41);
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](50, "path", 42);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](55, "svg", 45);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](56, "path", 46);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]()()();
     }
     if (rf & 2) {
@@ -1185,9 +1187,11 @@ HomeComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_2__["�
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx.bounce === 2);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](1);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngIf", ctx.bounce === 3);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵadvance"](14);
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵpureFunction1"](4, _c0, ctx.themeType === "light"));
     }
   },
-  directives: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf],
+  directives: [_angular_common__WEBPACK_IMPORTED_MODULE_3__.NgIf, _angular_common__WEBPACK_IMPORTED_MODULE_3__.NgClass],
   styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJob21lLmNvbXBvbmVudC5zY3NzIn0= */"],
   data: {
     animation: [(0,_angular_animations__WEBPACK_IMPORTED_MODULE_4__.trigger)('bounce', [(0,_angular_animations__WEBPACK_IMPORTED_MODULE_4__.transition)('* => *', (0,_angular_animations__WEBPACK_IMPORTED_MODULE_4__.useAnimation)(ng_animate__WEBPACK_IMPORTED_MODULE_5__.bounceIn, {
@@ -1804,7 +1808,7 @@ function WorksComponent_div_17_Template(rf, ctx) {
       return _r1.show();
     });
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](2, "div", 25)(3, "div", 26)(4, "span", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "D\xE9veloppement");
+    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "Creative");
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](6, "h4", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](7, "Game Jam Sherbrooke 2023");
@@ -1828,7 +1832,7 @@ function WorksComponent_div_32_Template(rf, ctx) {
       return _r3.show();
     });
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](2, "div", 25)(3, "div", 26)(4, "span", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "D\xE9veloppement");
+    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "Creative");
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](6, "h4", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](7, "Global Game Jam 2020 ");
@@ -1852,7 +1856,7 @@ function WorksComponent_div_47_Template(rf, ctx) {
       return _r5.show();
     });
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](2, "div", 25)(3, "div", 26)(4, "span", 27);
-    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "D\xE9veloppement");
+    _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](5, "Creative");
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](6, "h4", 28);
     _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](7, "Projet Pierro (En cours) ");
