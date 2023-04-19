@@ -505,7 +505,7 @@ AboutComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_2__["
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](8, "div", 7);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](9, "div", 8)(10, "div", 9)(11, "div", 3)(12, "div", 10)(13, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](14, " Je m'appel C\xE9drik et j'adore tester les caf\xE9s et boulangerie du quartier. \u2615 ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](14, " Je m'appelle C\xE9drik et j'adore tester les caf\xE9s et boulangeries du quartier. \u2615 ");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](15, "div", 11)(16, "a", 12);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](17, "T\xE9l\xE9charger le CV");
@@ -809,7 +809,7 @@ ExperienceComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](12, "Baccalaur\xE9at en Sciences Informatiques");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](13, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](14, "D\xE9veloppement de jeux et de divers projet informatiques durant mes \xE9tudes tel que ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](14, "D\xE9veloppement de jeux et de divers projets informatiques durant mes \xE9tudes tel que ");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](15, "a", 10);
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](16, "The Beast of Hamshire");
       _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -1941,7 +1941,7 @@ WorksComponent.ɵcmp = /*@__PURE__*/_angular_core__WEBPACK_IMPORTED_MODULE_3__["
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](24, "Game Jam Sherbrooke 2023");
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](25, "p");
-      _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](26, " En mars 2023, j'ai eu la chance de participer au Game Jam de Sherbrooke. Avec 5 de mes coll\xE8gues, nous avons d\xE9velopp\xE9 un jeu complet en moins de 48 heures. Avec la th\xE9matique \xABNuit Blanche\xBB, nous avons produit ");
+      _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](26, " En mars 2023, j'ai eu la chance de participer au Game Jam de Sherbrooke. Avec 5 de mes coll\xE8gues, nous avons d\xE9velopp\xE9 un jeu complet en moins de 48 heures. Selon la th\xE9matique \xABNuit Blanche\xBB, nous avons produit ");
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementStart"](27, "a", 17);
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵtext"](28, " The Beast of Hamshire ");
       _angular_core__WEBPACK_IMPORTED_MODULE_3__["ɵɵelementEnd"]();
