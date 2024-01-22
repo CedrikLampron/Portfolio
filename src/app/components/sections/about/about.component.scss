@@ -1,0 +1,7 @@
+/* Add a custom style to prevent line breaks in h3.count */
+.fact-item h3 .count {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.99em;
+}
